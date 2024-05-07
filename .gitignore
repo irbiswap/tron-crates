@@ -1,0 +1,8 @@
+/**/target
+trash/
+backup/
+data
+
+#Intellij
+*.iml
+.idea
