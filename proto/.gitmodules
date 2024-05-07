@@ -1,0 +1,4 @@
+[submodule "protocol"]
+	path = protocol
+	url = https://github.com/tronprotocol/protocol
+        branch = 06f3c97
